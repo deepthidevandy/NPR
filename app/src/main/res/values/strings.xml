@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Stations</string>
+    <string name="name">Name</string>
+
+    <string name="city">City</string>
+    <string name="lat">Latitude</string>
+    <string name="lng">Longitude</string>
+    <string name="search">Search</string>
+    <string name="loading">Loading...</string>
+</resources>
